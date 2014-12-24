@@ -1,6 +1,6 @@
 {
   "name": "config",
-  "repository": "tipm/config",
+  "repository": "bh5-ti/config",
   "description": "Easy configuration setting and getting for your project.",
   "version": "0.1.0",
   "keywords": [],
